@@ -1,0 +1,1 @@
+I have a data science task for you. I want you to generate synthetic text data for "Review" column I have attached. I want 404 records of it. This is for anonymisaiton purposes. 
